@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1662549911 source:c:\users\kkaym\onedrive\desktop\codeblocks projects\aiva\assistant.cpp
+	<iostream>
+	"assistant.h"
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<fstream>
+	<stdlib.h>
+
+1662549858 c:\users\kkaym\onedrive\desktop\codeblocks projects\aiva\assistant.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<stdio.h>
+	<cstring>
+	<unistd.h>
+	<ctype.h>
+	<ctime>
+	<process.h>
+	<windows.h>
+
+1662549779 source:c:\users\kkaym\onedrive\desktop\codeblocks projects\aiva\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<fstream>
+	<stdlib.h>
+	"assistant.h"
+
+1662556669 source:c:\users\kkaym\onedrive\desktop\codeblocks projects\aiva pro\assistant.cpp
+	"assistant.h"
+
+1662556501 c:\users\kkaym\onedrive\desktop\codeblocks projects\aiva pro\assistant.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<windows.h>
+
+1662554694 source:c:\users\kkaym\onedrive\desktop\codeblocks projects\aiva pro\main.cpp
+	"assistant.h"
+
+1662567496 source:f:\medical assistant\assistant.cpp
+	"assistant.h"
+
+1662566380 f:\medical assistant\assistant.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<windows.h>
+
+1662569330 source:f:\medical assistant\main.cpp
+	"assistant.h"
+
+1662583039 source:c:\users\student\onedrive - sol plaatje university\desktop\medical assistant\assistant.cpp
+	"assistant.h"
+
+1662583039 c:\users\student\onedrive - sol plaatje university\desktop\medical assistant\assistant.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<windows.h>
+
+1662630719 source:c:\users\student\onedrive - sol plaatje university\desktop\medical assistant\main.cpp
+	"assistant.h"
+
+1664520093 source:c:\users\kkaym\onedrive\documents\ronel\assistant.cpp
+	"assistant.h"
+
+1664521180 c:\users\kkaym\onedrive\documents\ronel\assistant.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<windows.h>
+
+1664522728 source:c:\users\kkaym\onedrive\documents\ronel\main.cpp
+	"assistant.h"
+
+1664520093 source:c:\users\kkaym\onedrive\desktop\codeblocks projects\medical diagnosis\assistant.cpp
+	"assistant.h"
+
+1667118627 c:\users\kkaym\onedrive\desktop\codeblocks projects\medical diagnosis\assistant.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<windows.h>
+
+1664523315 source:c:\users\kkaym\onedrive\desktop\codeblocks projects\medical diagnosis\main.cpp
+	"assistant.h"
+
